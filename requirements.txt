@@ -1,0 +1,6 @@
+gradio
+Pillow
+torch
+transformers
+numpy
+matplotlib
